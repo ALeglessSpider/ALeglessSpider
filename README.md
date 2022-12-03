@@ -5,7 +5,7 @@ IT Student currently exploring the world of Web Development
 -----------------------------------------------------------
 
 * 🌍  I'm based in Dubai
-* 🧠  I'm learning React and Three.js
+* 🧠  I'm learning React
 
 ### Skills
 

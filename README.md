@@ -61,8 +61,6 @@
   
 </details>
 
-### Snake Eating my Contribution Graph
-
   ![snake gif](https://github.com/ALeglessSpider/ALeglessSpider/blob/output/github-contribution-grid-snake.gif)
 
 <p align="left">

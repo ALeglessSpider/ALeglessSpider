@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=twinkling&text=Welcome!&height=100&section=header&fontColor=050505"/>
 </p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ALeglessSpider.ALeglessSpider" />
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ALeglessSpider.ALeglessSpider" />
 
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">An IT student currently exploring the world of Web Development</h3><br />

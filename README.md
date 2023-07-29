@@ -61,7 +61,9 @@
   
 </details>
 
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+### Snake Eating my Contribution Graph
+
+  ![snake gif](https://github.com/ALeglessSpider/ALeglessSpider/blob/output/github-contribution-grid-snake.gif)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

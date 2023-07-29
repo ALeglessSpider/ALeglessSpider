@@ -64,14 +64,12 @@
 </details>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>My Contributions 🐍</h2>
   <br>
       <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ALeglessSpider/ALeglessSpider/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
-
-  ![snake gif](https://github.com/ALeglessSpider/ALeglessSpider/blob/output/github-contribution-grid-snake.gif)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

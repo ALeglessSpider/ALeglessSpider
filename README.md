@@ -14,8 +14,34 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ALeglessSpider&theme=vue&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ALeglessSpider&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ALeglessSpider&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ALeglessSpider&theme=vue&hide_border=false)<br/>
+
+### :sparkles: [My followers](src/getTopFollowers.py)
+
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/samizaman">
+        <img src="https://avatars.githubusercontent.com/u/99897008?v=4" width="100px;" alt="samizaman"/>
+      </a>
+      <br />
+      <a href="https://github.com/samizaman">Sami Zaman</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/umairdadaa">
+        <img src="https://avatars.githubusercontent.com/u/75429136?v=4" width="100px;" alt="uamirdadaa"/>
+      </a>
+      <br />
+      <a href="https://github.com/umairdadaa">Umair Dada</a>
+    </td>
+  </tr>
+</table>
+<!--END_SECTION:top-followers-->
+
+---
+
 
 
 ### Socials

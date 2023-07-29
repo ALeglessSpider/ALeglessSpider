@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">An IT student currently exploring the world of Web Development</h3><br />
 

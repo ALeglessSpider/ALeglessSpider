@@ -50,6 +50,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ALeglessSpider"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ALeglessSpider" /></a></p><br><br>
 
+<br><details align="left">
+  <summary>📊 GitHub Stats</summary>
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ALeglessSpider&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
+</details>
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ALeglessSpider&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

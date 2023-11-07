@@ -32,6 +32,13 @@
       <br />
       <a href="https://github.com/umairdadaa">Umair Dada</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/peter-kimanzi">
+        <img src="https://avatars.githubusercontent.com/u/71552773?v=4" width="100px;" alt="peter-kimanzi"/>
+      </a>
+      <br />
+      <a href="https://github.com/peter-kimanzi">Peter Kimanzi</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->

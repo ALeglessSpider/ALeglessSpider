@@ -39,6 +39,13 @@
       <br />
       <a href="https://github.com/peter-kimanzi">Peter Kimanzi</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/blazeeebit">
+        <img src="https://avatars.githubusercontent.com/u/59376763?v=4" width="100px;" alt="blazeeebit"/>
+      </a>
+      <br />
+      <a href="https://github.com/blazeeebit">Syed Nauroz</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->

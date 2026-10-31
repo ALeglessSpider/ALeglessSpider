@@ -5,44 +5,6 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">An IT student currently exploring the world of Web Development</h3><br />
 
-
-### :sparkles: [My followers](src/getTopFollowers.py)
-
-<!--START_SECTION:top-followers-->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/samizaman">
-        <img src="https://avatars.githubusercontent.com/u/99897008?v=4" width="100px;" alt="samizaman"/>
-      </a>
-      <br />
-      <a href="https://github.com/samizaman">Sami Zaman</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/umairdadaa">
-        <img src="https://avatars.githubusercontent.com/u/75429136?v=4" width="100px;" alt="uamirdadaa"/>
-      </a>
-      <br />
-      <a href="https://github.com/umairdadaa">Umair Dada</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/peter-kimanzi">
-        <img src="https://avatars.githubusercontent.com/u/71552773?v=4" width="100px;" alt="peter-kimanzi"/>
-      </a>
-      <br />
-      <a href="https://github.com/peter-kimanzi">Peter Kimanzi</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/blazeeebit">
-        <img src="https://avatars.githubusercontent.com/u/59376763?v=4" width="100px;" alt="blazeeebit"/>
-      </a>
-      <br />
-      <a href="https://github.com/blazeeebit">Syed Nauroz</a>
-    </td>
-  </tr>
-</table>
-<!--END_SECTION:top-followers-->
-
 ---
 
 
